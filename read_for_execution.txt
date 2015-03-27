@@ -1,0 +1,9 @@
+The following depedencies have been used 
+numpy
+matplotlib
+networkx module
+bluetooth
+
+
+
+run : python main.py
